@@ -13,4 +13,10 @@ Set Physical Path :
 
 ![iisapplication2](https://user-images.githubusercontent.com/10778065/67151571-f79fba80-f295-11e9-9b39-5317df5b794b.png)
 
+Add Custom add-in  by using Manifest:
+
+![addin](https://user-images.githubusercontent.com/10778065/67151631-bbb92500-f296-11e9-90d5-ae2bea2a7343.png)
+
+Start add-in:
+
 

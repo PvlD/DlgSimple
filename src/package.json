@@ -21,7 +21,7 @@
   },  
   "dependencies": {
    
-    "jquery": "3.4.1",
+    "jquery": "3.4.0",
     "office-ui-fabric-react": "7.53.0",
     "react": "16.10.2",
     "react-dom": "16.10.2",
